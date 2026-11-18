@@ -2,10 +2,6 @@
 
 **I build practical software and tools, automate repetitive workflows, and continuously experiment with new technologies.** GitHub is where I prototype ideas, share projects, and contribute to open source.
 
-### Hi there 👋
-
-- 😄 Pronouns: she/her
-
 <!--
 **drazisil/drazisil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
